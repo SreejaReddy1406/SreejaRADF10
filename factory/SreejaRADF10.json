@@ -1,0 +1,9 @@
+{
+	"name": "SreejaRADF10",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df9fa8a1-9d58-4f78-805b-d43dac3be92d",
+		"tenantId": "aef1c3b1-9ca0-46cc-9a2a-bffd4067966f"
+	}
+}
