@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "SreejaRADF10"
+		},
+		"linkedserviceDL_accountKey": {
+			"value": ""
+		},
+		"linkedserviceDL_properties_typeProperties_url": {
+			"value": "https://storagedatafactorysreeja.dfs.core.windows.net/"
+		},
+		"sourcelinkdata_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com"
+		},
+		"StorageStrigger_properties_typeProperties_scope": {
+			"value": "/subscriptions/f7444e87-d514-4a92-8560-dde5de56fac2/resourceGroups/azurefundamentals/providers/Microsoft.Storage/storageAccounts/storagedatafactorysreeja"
+		}
+	}
+}
